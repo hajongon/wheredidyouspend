@@ -1,0 +1,2 @@
+body{background-color:#f8f6f1;box-sizing:border-box;font-family:sans-serif;height:100vh;margin:0;padding:0;width:100vw}.app,body{display:flex;justify-content:center}.app{align-items:center;flex-direction:column;height:100%;position:relative;width:100%;z-index:0}input{background-color:#f8f6f1;border:1px solid #000;padding:3px;transition:transform .2s ease-in-out}input:hover{transform:scale(1.05)}input:focus{outline:2px solid #d3d3d3}::selection{background-color:#f9b331}
+/*# sourceMappingURL=main.css.map*/
